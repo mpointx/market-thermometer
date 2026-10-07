@@ -1,0 +1,16 @@
+{
+  "version": "1.2-evening",
+  "latest_meeting": "2026-10-07_晚会_1700.txt",
+  "meeting_cutoff": "2026-10-07T17:15:02+08:00",
+  "market_as_of": "2026-09-30",
+  "original_plan_as_of": "2026-10-07T10:21:51.203268+08:00",
+  "planning_day": "2026-10-08",
+  "sessions": 27,
+  "html_sha256": "1de5a1bc2680d8a142d2f28de4898e63c072e1b5d259772223f786649fe8621c",
+  "source_transcript_sha256": "9457780c232ec54c61132900331e0d1d72988a97dce0f72d7583a6ad7ece7be4",
+  "tests": {
+    "rules": 18,
+    "fusion": 9
+  },
+  "local_paths_removed": true
+}
